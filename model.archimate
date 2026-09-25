@@ -5,6 +5,7 @@
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-411c712a49db4c75ab1e3694ca69a40f"/>
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-5d05bea32f9b47a1a07d2915493d2380"/>
     <element xsi:type="archimate:BusinessActor" name="Business Actor" id="id-69bcb1f440ec412dbdcea7d1422ea035"/>
+    <element xsi:type="archimate:BusinessActor" name="Business Actor Jen" id="id-8112baad10cd49c991e3efbac76a3dc3"/>
   </folder>
   <folder name="Application" id="id-2d682bc24cc64c0c8fe413be9255e18d" type="application"/>
   <folder name="Technology &amp; Physical" id="id-4b624c836716467f8f1d56a67e2f22e9" type="technology"/>
